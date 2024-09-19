@@ -1,4 +1,4 @@
-# Reismak for Windows
+# Reismak International for Windows
 
 Download from releases: https://github.com/joaocgreis/reismak/releases
 
